@@ -15,9 +15,9 @@ Search campground by location via Map.
   * Sub Item 2
 * Authentication:
 
-* sub User login with username and password
+* Sub User login with username and password
 
-* sub Admin sign-up with admin code
+* Sub Admin sign-up with admin code
 
 Authorization:
 
