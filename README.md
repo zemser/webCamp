@@ -14,10 +14,10 @@ Search campground by location via Map.
   * Sub Item 1
   * Sub Item 2
 * Authentication:
+  * Sub User login with username and password
+  * Sub Admin sign-up with admin code
 
-* Sub User login with username and password
 
-* Sub Admin sign-up with admin code
 
 Authorization:
 
