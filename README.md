@@ -35,7 +35,7 @@ Search campground by location via Map.
 Install mongodb\
 Create a cloudinary account to get an API key and secret code\
 git clone https://github.com/zemser/webCamp.git \
-cd yelpcamp\
+cd webCamp\
 npm install
 
 # Run it locally
