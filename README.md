@@ -2,7 +2,7 @@
 webCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. (This project was part of Colt Steele's web dev course).
 
 # GO LIVE
-To see the app in action, go to https://salty-atoll-49163.herokuapp.com/campgrounds/5fc8a212b4f9251944a55222
+To see the app in action, go to https://salty-atoll-49163.herokuapp.com
 
 # Features
 Users can create, edit, and remove campgrounds
